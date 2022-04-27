@@ -12,7 +12,7 @@ Primeiros Passos em HTML:
 | HTML links (a href) | [Passo 4][passo4] |
 
 
-- [Repositório;](https://github.com/franciscocaleiro/estrutura-html)
+- [Repositório;](https://github.com/zedpgd/Passo-4)
 
 
 Pauta fotográfica da turma:
